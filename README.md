@@ -14,7 +14,7 @@
 ### 1. Em um terminal, clone o repositório:
 
 ```bash
-git clone https://github.com/AlmdGuilherme/ATV-II-Autoboots.git
+git clone https://github.com/AlmdGuilherme/ATV-I-Autoboots.git
 cd ATV-I-Autoboots
 ```
 
